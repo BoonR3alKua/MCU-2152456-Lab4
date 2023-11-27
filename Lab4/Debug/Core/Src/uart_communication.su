@@ -1,0 +1,2 @@
+uart_communication.c:19:6:clear_buffer	8	static
+uart_communication.c:24:6:uart_communiation_fsm	16	static
